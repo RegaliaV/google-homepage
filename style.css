@@ -1,0 +1,36 @@
+#body-container {
+
+}
+
+.container {
+
+}
+
+.centered {
+	display: flex;
+	justify-content: center;
+}
+
+#logo {
+	margin: 125px auto 25px auto;
+}
+
+#search-bar {
+	margin: 25px auto;
+}
+
+.search-styling {
+	width: 575px;
+	height: 45px;
+	border-radius: 25px;
+	border: 1px solid #d9d9d9;
+}
+
+.buttons {
+	margin: 0px 5px;
+	padding: 10px 15px;
+	border: 0px;
+	font-size: 14px;
+	color: gray;
+	border-radius: 3px;
+}
